@@ -1,0 +1,61 @@
+shop_id,shop_name,shop_name_es,ciudad,tipo_tienda
+0,"!Якутск Орджоникидзе, 56 фран","Yakutsk, Ordzhonikidze 56 (franquicia)",Yakutsk,Tienda de calle
+1,"!Якутск ТЦ ""Центральный"" фран","Yakutsk, CC ""Tsentralny"" (franquicia)",Yakutsk,Centro comercial
+2,"Адыгея ТЦ ""Мега""","Adigea, CC ""Mega""",Adigea,Centro comercial
+3,"Балашиха ТРК ""Октябрь-Киномир""","Balashija, CCO ""Oktyabr-Kinomir""",Balashija,Centro comercial y de ocio
+4,"Волжский ТЦ ""Волга Молл""","Volzhski, CC ""Volga Mall""",Volzhski,Centro comercial
+5,"Вологда ТРЦ ""Мармелад""","Vólogda, CCO ""Marmelad""",Vólogda,Centro comercial y de ocio
+6,"Воронеж (Плехановская, 13)","Vorónezh (Plejánovskaya, 13)",Vorónezh,Tienda de calle
+7,"Воронеж ТРЦ ""Максимир""","Vorónezh, CCO ""Maksimir""",Vorónezh,Centro comercial y de ocio
+8,"Воронеж ТРЦ Сити-Парк ""Град""","Vorónezh, CCO City-Park ""Grad""",Vorónezh,Centro comercial y de ocio
+9,Выездная Торговля,Ventas itinerantes,Sin ciudad,Itinerante
+10,Жуковский ул. Чкалова 39м?,"Zhukovski, calle Chkálova 39m? (texto corrupto)",Zhukovski,Tienda de calle
+11,Жуковский ул. Чкалова 39м²,"Zhukovski, calle Chkálova 39m²",Zhukovski,Tienda de calle
+12,Интернет-магазин ЧС,Tienda en línea ChS,En línea,En línea
+13,"Казань ТЦ ""Бехетле""","Kazán, CC ""Bejetle""",Kazán,Centro comercial
+14,"Казань ТЦ ""ПаркХаус"" II","Kazán, CC ""ParkHouse"" II",Kazán,Centro comercial
+15,"Калуга ТРЦ ""XXI век""","Kaluga, CCO ""XXI vek""",Kaluga,Centro comercial y de ocio
+16,"Коломна ТЦ ""Рио""","Kolomna, CC ""Rio""",Kolomna,Centro comercial
+17,"Красноярск ТЦ ""Взлетка Плаза""","Krasnoyarsk, CC ""Vzlyotka Plaza""",Krasnoyarsk,Centro comercial
+18,"Красноярск ТЦ ""Июнь""","Krasnoyarsk, CC ""Iyun""",Krasnoyarsk,Centro comercial
+19,"Курск ТЦ ""Пушкинский""","Kursk, CC ""Pushkinski""",Kursk,Centro comercial
+20,"Москва ""Распродажа""","Moscú ""Rasprodazha"" (liquidación)",Moscú,Liquidación
+21,"Москва МТРЦ ""Афи Молл""","Moscú, CCO multifuncional ""Afi Mall""",Moscú,Centro comercial y de ocio
+22,Москва Магазин С21,"Moscú, Tienda C21",Moscú,Tienda de calle
+23,"Москва ТК ""Буденовский"" (пав.А2)","Moscú, CC ""Budenovski"" (pabellón A2)",Moscú,Centro comercial
+24,"Москва ТК ""Буденовский"" (пав.К7)","Moscú, CC ""Budenovski"" (pabellón K7)",Moscú,Centro comercial
+25,"Москва ТРК ""Атриум""","Moscú, CCO ""Atrium""",Moscú,Centro comercial y de ocio
+26,"Москва ТЦ ""Ареал"" (Беляево)","Moscú, CC ""Areal"" (Beliáyevo)",Moscú,Centro comercial
+27,"Москва ТЦ ""МЕГА Белая Дача II""","Moscú, CC ""MEGA Belaya Dacha II""",Moscú,Centro comercial
+28,"Москва ТЦ ""МЕГА Теплый Стан"" II","Moscú, CC ""MEGA Tyoply Stan"" II",Moscú,Centro comercial
+29,"Москва ТЦ ""Новый век"" (Новокосино)","Moscú, CC ""Novy Vek"" (Novokósino)",Moscú,Centro comercial
+30,"Москва ТЦ ""Перловский""","Moscú, CC ""Perlovski""",Moscú,Centro comercial
+31,"Москва ТЦ ""Семеновский""","Moscú, CC ""Semiónovski""",Moscú,Centro comercial
+32,"Москва ТЦ ""Серебряный Дом""","Moscú, CC ""Serebryany Dom""",Moscú,Centro comercial
+33,"Мытищи ТРК ""XL-3""","Mytishchi, CCO ""XL-3""",Mytishchi,Centro comercial y de ocio
+34,"Н.Новгород ТРЦ ""РИО""","Nizhni Nóvgorod, CCO ""RIO""",Nizhni Nóvgorod,Centro comercial y de ocio
+35,"Н.Новгород ТРЦ ""Фантастика""","Nizhni Nóvgorod, CCO ""Fantastika""",Nizhni Nóvgorod,Centro comercial y de ocio
+36,"Новосибирск ТРЦ ""Галерея Новосибирск""","Novosibirsk, CCO ""Galereya Novosibirsk""",Novosibirsk,Centro comercial y de ocio
+37,"Новосибирск ТЦ ""Мега""","Novosibirsk, CC ""Mega""",Novosibirsk,Centro comercial
+38,"Омск ТЦ ""Мега""","Omsk, CC ""Mega""",Omsk,Centro comercial
+39,"РостовНаДону ТРК ""Мегацентр Горизонт""","Rostov del Don, CCO ""Megatsentr Gorizont""",Rostov del Don,Centro comercial y de ocio
+40,"РостовНаДону ТРК ""Мегацентр Горизонт"" Островной","Rostov del Don, CCO ""Megatsentr Gorizont"" Ostrovnoy",Rostov del Don,Centro comercial y de ocio
+41,"РостовНаДону ТЦ ""Мега""","Rostov del Don, CC ""Mega""",Rostov del Don,Centro comercial
+42,"СПб ТК ""Невский Центр""","San Petersburgo, CC ""Nevski Tsentr""",San Petersburgo,Centro comercial
+43,"СПб ТК ""Сенная""","San Petersburgo, CC ""Sennaya""",San Petersburgo,Centro comercial
+44,"Самара ТЦ ""Мелодия""","Samara, CC ""Melodiya""",Samara,Centro comercial
+45,"Самара ТЦ ""ПаркХаус""","Samara, CC ""ParkHouse""",Samara,Centro comercial
+46,"Сергиев Посад ТЦ ""7Я""","Sérguiev Posad, CC ""7Ya""",Sérguiev Posad,Centro comercial
+47,"Сургут ТРЦ ""Сити Молл""","Surgut, CCO ""City Mall""",Surgut,Centro comercial y de ocio
+48,"Томск ТРЦ ""Изумрудный Город""","Tomsk, CCO ""Izumrudny Gorod""",Tomsk,Centro comercial y de ocio
+49,"Тюмень ТРЦ ""Кристалл""","Tiumén, CCO ""Kristall""",Tiumén,Centro comercial y de ocio
+50,"Тюмень ТЦ ""Гудвин""","Tiumén, CC ""Gudvin""",Tiumén,Centro comercial
+51,"Тюмень ТЦ ""Зеленый Берег""","Tiumén, CC ""Zelyony Bereg""",Tiumén,Centro comercial
+52,"Уфа ТК ""Центральный""","Ufá, CC ""Tsentralny""",Ufá,Centro comercial
+53,"Уфа ТЦ ""Семья"" 2","Ufá, CC ""Semya"" 2",Ufá,Centro comercial
+54,"Химки ТЦ ""Мега""","Jimki, CC ""Mega""",Jimki,Centro comercial
+55,Цифровой склад 1С-Онлайн,Almacén digital 1C-Online,En línea,En línea
+56,"Чехов ТРЦ ""Карнавал""","Chéjov, CCO ""Karnaval""",Chéjov,Centro comercial y de ocio
+57,"Якутск Орджоникидзе, 56","Yakutsk, Ordzhonikidze 56",Yakutsk,Tienda de calle
+58,"Якутск ТЦ ""Центральный""","Yakutsk, CC ""Tsentralny""",Yakutsk,Centro comercial
+59,"Ярославль ТЦ ""Альтаир""","Yaroslavl, CC ""Altair""",Yaroslavl,Centro comercial

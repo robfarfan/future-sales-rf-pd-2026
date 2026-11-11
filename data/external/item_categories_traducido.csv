@@ -1,0 +1,85 @@
+item_category_id,item_category_name,item_category_name_es,categoria_principal,subcategoria,es_digital
+0,PC - Гарнитуры/Наушники,PC - Audífonos,PC,Audífonos,0
+1,Аксессуары - PS2,Accesorios - PS2,Accesorios,PS2,0
+2,Аксессуары - PS3,Accesorios - PS3,Accesorios,PS3,0
+3,Аксессуары - PS4,Accesorios - PS4,Accesorios,PS4,0
+4,Аксессуары - PSP,Accesorios - PSP,Accesorios,PSP,0
+5,Аксессуары - PSVita,Accesorios - PSVita,Accesorios,PSVita,0
+6,Аксессуары - XBOX 360,Accesorios - XBOX 360,Accesorios,XBOX 360,0
+7,Аксессуары - XBOX ONE,Accesorios - XBOX ONE,Accesorios,XBOX ONE,0
+8,Билеты (Цифра),Boletos - Digital,Boletos,Digital,1
+9,Доставка товара,Envío de mercancía,Envío de mercancía,,0
+10,Игровые консоли - PS2,Consolas de videojuegos - PS2,Consolas de videojuegos,PS2,0
+11,Игровые консоли - PS3,Consolas de videojuegos - PS3,Consolas de videojuegos,PS3,0
+12,Игровые консоли - PS4,Consolas de videojuegos - PS4,Consolas de videojuegos,PS4,0
+13,Игровые консоли - PSP,Consolas de videojuegos - PSP,Consolas de videojuegos,PSP,0
+14,Игровые консоли - PSVita,Consolas de videojuegos - PSVita,Consolas de videojuegos,PSVita,0
+15,Игровые консоли - XBOX 360,Consolas de videojuegos - XBOX 360,Consolas de videojuegos,XBOX 360,0
+16,Игровые консоли - XBOX ONE,Consolas de videojuegos - XBOX ONE,Consolas de videojuegos,XBOX ONE,0
+17,Игровые консоли - Прочие,Consolas de videojuegos - Otras,Consolas de videojuegos,Otras,0
+18,Игры - PS2,Juegos - PS2,Juegos,PS2,0
+19,Игры - PS3,Juegos - PS3,Juegos,PS3,0
+20,Игры - PS4,Juegos - PS4,Juegos,PS4,0
+21,Игры - PSP,Juegos - PSP,Juegos,PSP,0
+22,Игры - PSVita,Juegos - PSVita,Juegos,PSVita,0
+23,Игры - XBOX 360,Juegos - XBOX 360,Juegos,XBOX 360,0
+24,Игры - XBOX ONE,Juegos - XBOX ONE,Juegos,XBOX ONE,0
+25,Игры - Аксессуары для игр,Juegos - Accesorios para juegos,Juegos,Accesorios para juegos,0
+26,Игры Android - Цифра,Juegos - Android - Digital,Juegos,Android - Digital,1
+27,Игры MAC - Цифра,Juegos - MAC - Digital,Juegos,MAC - Digital,1
+28,Игры PC - Дополнительные издания,Juegos - PC - Ediciones adicionales,Juegos,PC - Ediciones adicionales,0
+29,Игры PC - Коллекционные издания,Juegos - PC - Ediciones de colección,Juegos,PC - Ediciones de colección,0
+30,Игры PC - Стандартные издания,Juegos - PC - Ediciones estándar,Juegos,PC - Ediciones estándar,0
+31,Игры PC - Цифра,Juegos - PC - Digital,Juegos,PC - Digital,1
+32,"Карты оплаты (Кино, Музыка, Игры)","Tarjetas de pago - Cine, música, juegos",Tarjetas de pago,"Cine, música, juegos",0
+33,Карты оплаты - Live!,Tarjetas de pago - Live!,Tarjetas de pago,Live!,0
+34,Карты оплаты - Live! (Цифра),Tarjetas de pago - Live! (digital),Tarjetas de pago,Live! (digital),1
+35,Карты оплаты - PSN,Tarjetas de pago - PSN,Tarjetas de pago,PSN,0
+36,Карты оплаты - Windows (Цифра),Tarjetas de pago - Windows (digital),Tarjetas de pago,Windows (digital),1
+37,Кино - Blu-Ray,Cine - Blu-Ray,Cine,Blu-Ray,0
+38,Кино - Blu-Ray 3D,Cine - Blu-Ray 3D,Cine,Blu-Ray 3D,0
+39,Кино - Blu-Ray 4K,Cine - Blu-Ray 4K,Cine,Blu-Ray 4K,0
+40,Кино - DVD,Cine - DVD,Cine,DVD,0
+41,Кино - Коллекционное,Cine - De colección,Cine,De colección,0
+42,"Книги - Артбуки, энциклопедии","Libros - Artbooks, enciclopedias",Libros,"Artbooks, enciclopedias",0
+43,Книги - Аудиокниги,Libros - Audiolibros,Libros,Audiolibros,0
+44,Книги - Аудиокниги (Цифра),Libros - Audiolibros (digital),Libros,Audiolibros (digital),1
+45,Книги - Аудиокниги 1С,Libros - Audiolibros 1C,Libros,Audiolibros 1C,0
+46,Книги - Бизнес литература,Libros - Literatura de negocios,Libros,Literatura de negocios,0
+47,"Книги - Комиксы, манга","Libros - Cómics, manga",Libros,"Cómics, manga",0
+48,Книги - Компьютерная литература,Libros - Literatura de computación,Libros,Literatura de computación,0
+49,Книги - Методические материалы 1С,Libros - Material metodológico 1C,Libros,Material metodológico 1C,0
+50,Книги - Открытки,Libros - Postales,Libros,Postales,0
+51,Книги - Познавательная литература,Libros - Literatura de divulgación,Libros,Literatura de divulgación,0
+52,Книги - Путеводители,Libros - Guías de viaje,Libros,Guías de viaje,0
+53,Книги - Художественная литература,Libros - Ficción,Libros,Ficción,0
+54,Книги - Цифра,Libros - Digital,Libros,Digital,1
+55,Музыка - CD локального производства,Música - CD de producción local,Música,CD de producción local,0
+56,Музыка - CD фирменного производства,Música - CD de producción de sello,Música,CD de producción de sello,0
+57,Музыка - MP3,Música - MP3,Música,MP3,0
+58,Музыка - Винил,Música - Vinilo,Música,Vinilo,0
+59,Музыка - Музыкальное видео,Música - Video musical,Música,Video musical,0
+60,Музыка - Подарочные издания,Música - Ediciones de regalo,Música,Ediciones de regalo,0
+61,Подарки - Атрибутика,Regalos - Artículos promocionales,Regalos,Artículos promocionales,0
+62,"Подарки - Гаджеты, роботы, спорт","Regalos - Gadgets, robots, deporte",Regalos,"Gadgets, robots, deporte",0
+63,Подарки - Мягкие игрушки,Regalos - Peluches,Regalos,Peluches,0
+64,Подарки - Настольные игры,Regalos - Juegos de mesa,Regalos,Juegos de mesa,0
+65,Подарки - Настольные игры (компактные),Regalos - Juegos de mesa (compactos),Regalos,Juegos de mesa (compactos),0
+66,"Подарки - Открытки, наклейки","Regalos - Postales, calcomanías",Regalos,"Postales, calcomanías",0
+67,Подарки - Развитие,Regalos - Desarrollo infantil,Regalos,Desarrollo infantil,0
+68,"Подарки - Сертификаты, услуги","Regalos - Certificados, servicios",Regalos,"Certificados, servicios",0
+69,Подарки - Сувениры,Regalos - Souvenirs,Regalos,Souvenirs,0
+70,Подарки - Сувениры (в навеску),Regalos - Souvenirs (colgantes),Regalos,Souvenirs (colgantes),0
+71,"Подарки - Сумки, Альбомы, Коврики д/мыши","Regalos - Bolsas, álbumes, mouse pads",Regalos,"Bolsas, álbumes, mouse pads",0
+72,Подарки - Фигурки,Regalos - Figuras,Regalos,Figuras,0
+73,Программы - 1С:Предприятие 8,Programas - 1C:Enterprise 8,Programas,1C:Enterprise 8,0
+74,Программы - MAC (Цифра),Programas - MAC (digital),Programas,MAC (digital),1
+75,Программы - Для дома и офиса,Programas - Hogar y oficina,Programas,Hogar y oficina,0
+76,Программы - Для дома и офиса (Цифра),Programas - Hogar y oficina (digital),Programas,Hogar y oficina (digital),1
+77,Программы - Обучающие,Programas - Educativos,Programas,Educativos,0
+78,Программы - Обучающие (Цифра),Programas - Educativos (digital),Programas,Educativos (digital),1
+79,Служебные,Servicio,Servicio,,0
+80,Служебные - Билеты,Servicio - Boletos,Servicio,Boletos,0
+81,Чистые носители (шпиль),Medios vírgenes - En spindle,Medios vírgenes,En spindle,0
+82,Чистые носители (штучные),Medios vírgenes - Por unidad,Medios vírgenes,Por unidad,0
+83,Элементы питания,Baterías,Baterías,,0
