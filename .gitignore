@@ -10,6 +10,9 @@
 # Modelos entrenados: se regeneran con los notebooks
 /models/*
 !/models/.gitkeep
+# Entregables de la fase 2 (consigna): pipelines .pkl y predicciones
+!/models/*.pkl
+!/data/processed/predicciones_test.csv
 
 # Mac OS-specific storage files
 .DS_Store

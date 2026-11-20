@@ -1,0 +1,93 @@
+# Configuración del pipeline de Predict Future Sales.
+# Generada por notebooks/02_feature_exploration.ipynb (sección 6).
+# La leen los notebooks 03 (pipeline), 04 (entrenamiento) y 05.
+TARGET: item_cnt_month
+RANGO_TARGET:
+  min: 0
+  max: 20
+MESES_ENTRENAMIENTO:
+- 12
+- 26
+MESES_VALIDACION:
+- 27
+- 33
+LAGS:
+  par:
+  - 1
+  - 2
+  - 3
+  - 6
+  - 12
+  item:
+  - 1
+  - 2
+  tienda:
+  - 1
+  categoria:
+  - 1
+  tienda_categoria:
+  - 1
+  - 2
+IMPUTAR_CERO:
+- meses_desde_lanzamiento_item
+- meses_desde_primera_venta_par
+IMPUTAR_MEDIANA:
+- precio_item_previo
+- ventas_par_lag_1
+- ventas_par_lag_2
+- ventas_par_lag_3
+- ventas_par_lag_6
+- ventas_par_lag_12
+- ventas_item_lag_1
+- ventas_item_lag_2
+- ventas_tienda_lag_1
+- ventas_categoria_lag_1
+- ventas_tienda_categoria_lag_1
+- ventas_tienda_categoria_lag_2
+- es_digital
+- mes
+- fines_semana
+IMPUTAR_CATEGORICAS:
+- ciudad
+- tipo_tienda
+- categoria_principal
+IMPUTAR_CODIGOS:
+- item_category_id
+CODIFICAR_MEDIA_TARGET:
+- shop_id
+- item_category_id
+- ciudad
+CODIFICAR_ONE_HOT:
+- tipo_tienda
+- categoria_principal
+RECORTAR_LAGS_PAR:
+- ventas_par_lag_1
+- ventas_par_lag_2
+- ventas_par_lag_3
+- ventas_par_lag_6
+- ventas_par_lag_12
+WINSORIZAR:
+- ventas_item_lag_1
+- ventas_item_lag_2
+- ventas_tienda_lag_1
+- ventas_categoria_lag_1
+- ventas_tienda_categoria_lag_1
+- ventas_tienda_categoria_lag_2
+- precio_item_previo
+TRANSFORMAR_LOG:
+- ventas_par_lag_1
+- ventas_par_lag_2
+- ventas_par_lag_3
+- ventas_par_lag_6
+- ventas_par_lag_12
+- ventas_item_lag_1
+- ventas_item_lag_2
+- ventas_categoria_lag_1
+- ventas_tienda_categoria_lag_1
+- ventas_tienda_categoria_lag_2
+- precio_item_previo
+- meses_desde_primera_venta_par
+ELIMINAR:
+- date_block_num
+- item_id
+- dias_mes
