@@ -16,7 +16,7 @@ La consigna de cada fase está en los `.docx` de la carpeta superior (`../Prompt
 - ✅ Análisis exploratorio en `notebooks/01_exploratory_data_analysis.ipynb`, ejecutado en VS Code y versionado con sus salidas.
 - ✅ Traducciones manuales de tiendas y categorías en `data/external/`.
 - ✅ Repositorio git (`main`) publicado en GitHub (público): https://github.com/robfarfan/future-sales-rf-pd-2026
-- ✅ Fase 2 (rama `feature/fase2-pipeline`, publicada en GitHub): notebooks 02 a 05 ejecutados en VS Code con sus salidas, operadores, pipelines `.pkl` y predicciones de test. Falta que el usuario integre la rama a `main` con un Pull Request, cuando lo decida.
+- ✅ Fase 2: notebooks 02 a 05 ejecutados en VS Code con sus salidas, operadores, pipelines `.pkl` y predicciones de test. Integrada a `main` con el PR #1 (merge `23a87f8`). La rama `feature/fase2-pipeline` se **conserva** (local y en GitHub) como entregable de la consigna hasta que se califique.
 - ⬜ Script de inferencia con pytest y CLI, MLflow y API (fases siguientes de la skill).
 
 ## Estructura relevante
@@ -180,7 +180,7 @@ Relación con el target (malla de los meses 22-33):
 
 ## Pendientes y decisiones abiertas
 
-- Pull Request de `feature/fase2-pipeline` hacia `main`: lo abre y lo integra el usuario cuando lo decida.
+- Borrar la rama `feature/fase2-pipeline` (local y remota) solo cuando el usuario lo pida, después de la calificación.
 - Mejoras posibles: una configuración de HistGB aún más simple, más épocas para la MLP, features de texto de `item_name`, enviar el CSV a Kaggle para el puntaje público.
 - Siguientes fases de la skill: script de inferencia con pytest y CLI, MLflow, API.
 - (Histórico, ya resuelto en la fase 2:) recorte del target, construcción de la malla mensual, rezagos y promedios con rezago, features de texto de `item_name`, banderas de tiendas y productos especiales, tratamiento de los productos nuevos, esquema de validación temporal (por ejemplo, validar con el mes 33) y cómo encaja en el pipeline de sklearn.
